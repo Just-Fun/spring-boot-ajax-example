@@ -67,6 +67,8 @@ function getModifiedString(value) {
         contentType: "application/json",
         // url: "/api/getModifiedString",
         url: "/api/getUser",
+        // url: "http://localhost:9000/hello-world/getString",
+        // url: "http://localhost:9003/api/getUser",
         // data: JSON.stringify(value),
         data:  value,
         // dataType: 'json',
